@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lec4s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Change Fragments</string>
+    <string name="fragA">Fragment A</string>
+    <string name="fragB">Fragment B</string>
+    <string name="fragC">Fragment C</string>
+
+
+</resources>
